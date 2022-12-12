@@ -2,4 +2,5 @@
 declare(strict_types=1);
 
 
-//komentuosim del gito
+//komentuosim del gito gggggg
+echo "bandom";
