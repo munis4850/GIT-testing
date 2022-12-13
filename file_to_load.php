@@ -20,4 +20,8 @@ Funkcija grąžina: funkcija nieko negrąžina - ji tik išspausdina masyvą į 
 'another text'
 ...
 */
-function arrayPrinter (array %arejus, )
+function arrayPrinter (array $arejus )
+{
+    echo $arejus;
+}
+arrayPrinter(['some text', 'another text']);
