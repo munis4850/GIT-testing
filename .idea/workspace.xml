@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee1fa50e-f6f2-4c49-9189-a78e26ab7428" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uzduotis1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises.php" beforeDir="false" afterPath="$PROJECT_DIR$/exercises.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/file_to_load.php" beforeDir="false" afterPath="$PROJECT_DIR$/file_to_load.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +48,7 @@
       <workItem from="1670427450856" duration="6609000" />
       <workItem from="1670506888552" duration="7187000" />
       <workItem from="1670855522971" duration="12075000" />
+      <workItem from="1670946938772" duration="1494000" />
     </task>
     <servers />
   </component>
