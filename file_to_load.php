@@ -5,9 +5,9 @@ declare(strict_types=1);
 1. Parašykite funkciją 'dividesBy5', kuri priimtų int tipo skaičių ir grąžintų jo dalybos iš 5 liekaną.
 */
 
-//function dividesBy5 (int $firstNumber, int $secondNumber ): int
+//function dividesBy5 (int $firstNumber, int 5 ): int
 //{
-//    return ($firstNumber % $secondNumber);
+//    return ($firstNumber % 5);
 //}
 //var_dump(dividesBy5(7,2));
 
@@ -20,8 +20,19 @@ Funkcija grąžina: funkcija nieko negrąžina - ji tik išspausdina masyvą į 
 'another text'
 ...
 */
-function arrayPrinter (array $arejus )
+//function arrayPrinter (array $arejus )
+//{
+//    echo $arejus;
+//}
+//arrayPrinter(['some text', 'another text']);
+
+//3. Parašykite funkciją 'stringEnhancer', kuri grąžintų pakeistą tekstą.
+//Funkcijos kvietimas: stringEnhancer('some text', '##')
+//Funkcija grąžina: '##some text##'
+//Funkcijos kvietimas: stringEnhancer('some text')
+//Funkcija grąžina: '**some text**'
+//*/
+function stringEnhancer (string 'some text', '##' ):string
 {
-    echo $arejus;
+  return
 }
-arrayPrinter(['some text', 'another text']);

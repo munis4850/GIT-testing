@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee1fa50e-f6f2-4c49-9189-a78e26ab7428" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-12_21_38_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-12_21_38_[Changes]1/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022-12-12_21_38__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uzduotis1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises.php" beforeDir="false" afterPath="$PROJECT_DIR$/exercises.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/file_to_load.php" beforeDir="false" afterPath="$PROJECT_DIR$/file_to_load.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +48,9 @@
       <workItem from="1670427450856" duration="6609000" />
       <workItem from="1670506888552" duration="7187000" />
       <workItem from="1670855522971" duration="12075000" />
-      <workItem from="1670946938772" duration="2247000" />
+      <workItem from="1670946938772" duration="6369000" />
+      <workItem from="1671025446930" duration="2878000" />
+      <workItem from="1671032337990" duration="1003000" />
     </task>
     <servers />
   </component>
