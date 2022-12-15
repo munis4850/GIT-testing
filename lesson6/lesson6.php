@@ -265,6 +265,11 @@ Masyvą gausite iškvietę funkciją 'getNumbers'
 //}
 //exercise13();
 
+$filteredArray = array_filter(
+    getNumbers(),
+    function($val){
+        return $val >= 0;
+    })
 
 
 
