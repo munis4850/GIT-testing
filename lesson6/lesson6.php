@@ -183,6 +183,7 @@ function exercise10(int $number): void
     ...
     60
     */
+    if
 }
 
 function exercise11(int $number): void
