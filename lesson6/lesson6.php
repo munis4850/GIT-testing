@@ -167,10 +167,10 @@ declare(strict_types=1);
 //}
 //exercise9(7,2);
 
-
-
-function exercise10(int $number): void
-{
+//!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+//
+//function exercise10(int $number): void
+//{
     /*
     Išspausdinkite skaičius, kurie yra mažesni nei $number ir dalijasi iš 3. Jeigu paduotas skaičius mažesnis nei 0,
     funkcija nieko nespausdina.
@@ -183,11 +183,23 @@ function exercise10(int $number): void
     ...
     60
     */
-    if
-}
 
-function exercise11(int $number): void
-{
+//    for ($i = 0; $i < $number; $i++){
+//    if ($i % 3 == 0 ) {
+//        echo $i.PHP_EOL;
+//    }
+//         elseif ($number<0){
+//            echo "blank space";
+//        }
+//    }
+//}
+//var_dump(exercise10(60));
+
+//!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+//function exercise11(int $number): void
+//{
     /*
     Išspausdinkite skaičius nuo $number iki 0 pasinaudodami ciklu. Jeigu paduotas skaičius neigiamas,
     funkcija nieko nespausdina.
@@ -200,7 +212,15 @@ function exercise11(int $number): void
     1
     0
     */
-}
+//    for ($i = $number; $i >= 0; $i--) {
+//
+//            echo $i.PHP_EOL;
+//
+//    }
+//}
+//var_dump(exercise11(21));
+
+
 
 function getNumbers(): array
 {
@@ -226,3 +246,37 @@ Masyvą gausite iškvietę funkciją 'getNumbers'
 16. Raskite ir grąžinkite masyvo narių vidurkį. Neigiamus skaičius paverskite į teigiamus
 17. Į masyvą pridėkite naują narį - skaičiu 255 - ir išspausdinkite masyva pasinaudodami funkcija 'printr'
 */
+
+
+//----------------------------------12--------------------------------------------
+//echo "as durnas, bet atsakymas".PHP_EOL;
+//
+//function exercise12() {
+//    echo array_sum(getNumbers());
+//}
+//exercise12();
+
+
+//---------------------------------------------------------------13
+//13. Raskite ir grąžinkite lyginių masyvo narių sumą
+//function exercise13() {
+//    if ()
+
+//}
+//exercise13();
+
+
+
+
+
+
+
+
+
+//----------------------------------17--------------------------------------------
+//17. Į masyvą pridėkite naują narį - skaičiu 255 - ir išspausdinkite masyva pasinaudodami funkcija 'printr'
+//function exercise17(){
+//    array_push(getNumbers(), "255");
+//
+//}
+//exercise17();

@@ -1,18 +1,28 @@
 <?php
 
-function exercise9(int $start, int $end): void
+function exercise10(int $number)
 {
     /*
-    Išspausdinkite skaičius nuo $start iki $end pasinaudodami ciklu.
-    Jeigu $start yra mažiau nei $end, funkcija nieko nespausdina.
+    Išspausdinkite skaičius, kurie yra mažesni nei $number ir dalijasi iš 3. Jeigu paduotas skaičius mažesnis nei 0,
+    funkcija nieko nespausdina.
+    Funkcijos kvietimas: exercise10(60)
+    Funkcija spausdina:
+    3
+    6
+    9
+    12
+    ...
+    60
     */
-    for ($i = $start; $i >= $end; $i--) {
-        if (!$start < $end) {
-            echo $i. " ";
-        }
-        else {
-            echo "";
+
+    for ($i = 0; $i < $number; $i++){
+    if ($i % 3 == 0 || $i < $number) {
+        return $i;
+    }
+         elseif ($number<0){
+            echo "blank space";
         }
     }
 }
-exercise9(11, 2);
+var_dump(exercise10(60));
+
